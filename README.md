@@ -21,7 +21,7 @@ This project was built as part of my 7th Semester IT coursework and demonstrates
 
 ## 🌍 Live Demo
 
-🔗 https://your-vercel-link.vercel.app
+🔗 https://resume-boost-ai-eight.vercel.app/
 
 ---
 
